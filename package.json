@@ -1,0 +1,8 @@
+{
+  "author": "starikcetin <cetinsamedtarik@gmail.com> (https://github.com/starikcetin)",
+  "description": "test repo to see if I can use prefabs from a upm package",
+  "displayName": "starikcetin UPM Prefab Test",
+  "license": "MIT",
+  "name": "com.starikcetin.upm-prefab-test",
+  "version": "0.0.1"
+}
